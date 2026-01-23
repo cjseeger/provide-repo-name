@@ -11,3 +11,8 @@ baseurl: "/themeTest"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+header_pages:
+  - index.md
+  - about.md
+
