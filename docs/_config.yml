@@ -1,1 +1,11 @@
-theme: jekyll-theme-minima
+title: Your Site Title
+description: A short description
+
+theme: minima
+
+url: "https://username.github.io"
+baseurl: "/repo-name"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
