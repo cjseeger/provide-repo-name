@@ -20,7 +20,7 @@ header_pages:
   - about.md
 
 # Blog / posts settings
-# show_excerpts: true
+show_excerpts: true
 
 plugins:
   - jekyll-feed
