@@ -1,2 +1,4 @@
-Chris Seeger
-Line two
+---
+layout: home
+title: Home
+---
