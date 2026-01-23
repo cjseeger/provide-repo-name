@@ -17,6 +17,7 @@ header_pages:
   - index.html
   - results.html
   - blog.html
+  - tags.html
   - about.md
 
 # Blog / posts settings
