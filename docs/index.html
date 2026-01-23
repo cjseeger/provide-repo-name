@@ -3,14 +3,28 @@ layout: home
 title: Home
 ---
 
+<h2>Theme Test</h2>
 
-<h1>Chris's Header - placeholder2</h1>
-<p>This is a paragraph.</p>
-  <p>I will add more here once I learn HTML!</p>
+<p>
+This site explores interactive data visualization, Jekyll templates, and GitHub Pages.
+</p>
+<p>This theme is called Minima</p>
 
-<p>Welcome to <strong>Theme Test</strong>.</p>
+<div class="home-cards">
+  <a href="{{ '/results/' | relative_url }}" class="card">
+    <h3>📊 Results</h3>
+    <p>Interactive charts and analysis</p>
+  </a>
 
-<p>This site includes:</p>
+  <a href="{{ '/blog/' | relative_url }}" class="card">
+    <h3>✍️ Blog</h3>
+    <p>Notes, experiments, and updates</p>
+  </a>
+</div>
+
+
+
+<p>some extra html blah blah:</p>
 <ul>
   <li>Interactive results and charts</li>
   <li>A blog</li>
