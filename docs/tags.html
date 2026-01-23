@@ -1,0 +1,13 @@
+---
+layout: page
+title: Tags
+permalink: /tags/
+---
+
+<ul>
+{% for tag in site.tags %}
+  <li>
+    <strong>{{ tag[0] }}</strong> ({{ tag[1].size }})
+  </li>
+{% endfor %}
+</ul>
