@@ -26,3 +26,10 @@ show_excerpts: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+    social:
+  name: Chris Seeger
+  links:
+    - https://github.com/cjseeger
+    - https://www.linkedin.com/in/christopher-j-seeger/
+
