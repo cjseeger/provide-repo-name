@@ -5,6 +5,9 @@ author: Chris Seeger
 # Theme
 theme: minima
 
+minima:
+  skin: classic
+
 # Project site settings
 url: "https://cjseeger.github.io"
 baseurl: "/themeTest"
