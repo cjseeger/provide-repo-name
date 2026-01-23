@@ -13,7 +13,7 @@ baseurl: "/themeTest"
 header_pages:
   - index.html
   - results.html
-    - blog.html
+  - blog.html
   - about.md
 
 # Blog / posts settings
