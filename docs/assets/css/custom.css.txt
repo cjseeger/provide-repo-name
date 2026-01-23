@@ -1,0 +1,8 @@
+.site-nav .page-link {
+  padding-bottom: 2px;
+}
+
+.site-nav .page-link.active {
+  border-bottom: 2px solid currentColor;
+  font-weight: 600;
+}
