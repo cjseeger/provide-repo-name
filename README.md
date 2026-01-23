@@ -1,2 +1,2 @@
-# You can write a more complete title on the readme
-Eventually add more detail to this document.
+# Chris Seeger Theme Test
+Using this Repo to test out changing the site theme.
