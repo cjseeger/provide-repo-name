@@ -11,7 +11,7 @@ baseurl: "/themeTest"
 
 # Show pages in the header
 header_pages:
-  - index.md
+  - index.html
   - results.html
   - about.md
 
