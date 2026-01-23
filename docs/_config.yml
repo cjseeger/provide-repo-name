@@ -1,19 +1,23 @@
 title: Theme Test
-description: Testing the Jekyll Minima theme on GitHub Pages
+description: Experiments with Jekyll, Minima, and interactive charts
 author: Chris Seeger
 
+# Theme
 theme: minima
 
 # Project site settings
 url: "https://cjseeger.github.io"
 baseurl: "/themeTest"
 
+# Show pages in the header
+header_pages:
+  - index.md
+  - results.html
+  - about.md
+
+# Blog / posts settings
+show_excerpts: true
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-header_pages:
-  - index.html
-  - charts.html
-  - about.md
-
