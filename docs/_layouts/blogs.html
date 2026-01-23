@@ -9,6 +9,9 @@ layout: default
     <article class="post-preview">
       <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
       <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
+      {% if post.featured_image %}
+        <img class="featured" src="{{ post.featured_image | relative_url }}">
+      {% endif %} 
       {% if post.excerpt %}
         <p class="post-excerpt">{{ post.excerpt }}</p>
       {% endif %}
