@@ -31,3 +31,16 @@
   gap: 1.5rem;
 }
 
+.blog-list {
+  max-width: 800px;
+  margin: auto;
+}
+
+.post-preview {
+  margin-bottom: 2rem;
+}
+
+.post-date {
+  color: #666;
+  font-size: 0.9rem;
+}
