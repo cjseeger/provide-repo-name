@@ -13,6 +13,7 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
-  - index.md
+  - index.html
+  - charts.html
   - about.md
 
